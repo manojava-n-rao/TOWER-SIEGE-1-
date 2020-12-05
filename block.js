@@ -1,7 +1,7 @@
 class Block  {
     constructor(x,y,width,height)  {
         var options={
-            isStatic:false
+            //bounciness:/
         }
         this.width = width
         this.height = height
